@@ -5,7 +5,7 @@ function About() {
       <div className="relative mx-auto max-w-5xl px-4 sm:px-6 lg:px-8">
         <h2 className="text-3xl sm:text-4xl font-extrabold text-fuchsia-100">About Us</h2>
         <p className="mt-4 text-fuchsia-100/80 leading-relaxed">
-          Born in the back alleys of Neon District 7, our noodle bar blends old-world soul with future tech. We hand-pull every noodle, simmer broth for hours, and finish each bowl with cyber-grade precision. Whether youre dodging drones or chasing dreams, our bowls keep your story moving.
+          Born in the back alleys of Neon District 7, our noodle bar blends old-world soul with future tech. We hand-pull every noodle, simmer broth for hours, and finish each bowl with cyber-grade precision. Whether you're dodging drones or chasing dreams, our bowls keep your story moving.
         </p>
         <div className="mt-8 grid gap-6 sm:grid-cols-3">
           <div className="rounded-xl border border-cyan-400/30 bg-black/50 p-6">
